@@ -104,18 +104,6 @@ Data collected using the Last.fm API and structured into:
 * Power BI (dashboard & visualization)
 * Excel (data cleaning)
 
----
-
-## ❓ Research Questions
-
-* Which artists generate the most engagement?
-* How concentrated is listening across tracks?
-* Do artists depend on a few top tracks?
-* Does more content lead to more engagement?
-* Which genres drive higher interaction?
-* Which tracks are replayed the most?
-* How strong is listener engagement per track?
-* Which artists have the highest global reach?
 
 ---
 
